@@ -1,0 +1,16 @@
+body {
+	font-family: source sans pro ;
+	width: 66.66%;
+	margin: 16.665%;
+	display: inline-block;
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+}
+
+h1 {
+	color: #3498db;
+}
+
+div p:nth-of-type(1) {
+	text-transform: uppercase;
+}
